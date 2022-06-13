@@ -3,9 +3,9 @@
 </div>
 
 <div>
-  <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/bug.gif?raw=true" width="500"/>
+  <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/bug.gif?raw=true" width="100"/>
 </div>
 
 <div>
-  <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/static.gif?raw=true" width="500"/>
+  <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/static.gif?raw=true" width="100"/>
 </div>
