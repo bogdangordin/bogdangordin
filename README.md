@@ -11,5 +11,5 @@
 </div>
 
 <div>
-  <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/static.gifraw=true" width="100"/>
+  <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/static.gif?raw=true" width="100"/>
 </div>
