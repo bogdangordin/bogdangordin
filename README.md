@@ -1,7 +1,7 @@
 <p>
-  are you seeing this?
+  
 </p>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  are you seeing this? <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/bug.gif?raw=true" width="100"/>
 </div>
