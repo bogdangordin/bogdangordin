@@ -4,7 +4,7 @@
 
 ### Greetings! :^)
 
-My name is Bogdan (BAWG-dhn), I'm passionate about the **Internet of things** and I like to **code**.
+My name is Bogdan (BAWG-dhn), I'm passionate about the **Internet of Things** and I enjoy to **code**!.
 
 <br>
 
@@ -15,7 +15,7 @@ For example here is a list of some stuff that I wrote, not necessarily ***mind b
 - [WordWolf](https://github.com/RFP2202-Blue-Ocean-Avengers/WordWolf) - A web application of the game board Werewords
 - &lt;add more repos&gt;
 
-<img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/bug.gif?raw=true" width="100"/>Thank you for stopping bye!
+Thank you for stopping by! <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/bug.gif?raw=true" width="100"/>
 
 Email me here `bogdan.gordin@gmail.com` if you're wishing to discuss, promise I don't bite (^:
 
