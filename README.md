@@ -16,7 +16,7 @@ Thank you for stopping bye!
 
 Email me here `bogdan.gordin@gmail.com` if you're wishing to discuss, promise I don't bite (^:
 
-**-->** [_orhun.dev_](https://www.linkedin.com/in/bogdangordin/) **<--**
+**-->** [_Bogdan Gordin_](https://www.linkedin.com/in/bogdangordin/) **<--**
 
 
 
