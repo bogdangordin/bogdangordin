@@ -1,8 +1,10 @@
+&lt;Profile README in progress&gt; 
+
 <img align="left" src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/wolf.png?raw=true" width="100">
 
 ### Greetings! :^)
 
-&lt;Profile README in progress&gt; My name is Bogdan (BAWG-dhn). I'm passionate about the **Internet of things** and I like to **code**.
+My name is Bogdan (BAWG-dhn). I'm passionate about the **Internet of things** and I like to **code**.
 
 <br>
 
