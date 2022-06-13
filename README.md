@@ -1,9 +1,6 @@
 <div>
   <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/wolf.png?raw=true" width="100"/>
-</div>
-
-<div>
-  &lt;Profile README in progress&gt;
+    &lt;Profile README in progress&gt;
 </div>
 
 <div>
@@ -12,4 +9,8 @@
 
 <div>
   <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/static.gif?raw=true" width="100"/>
+</div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/static2.gif?raw=true" width="100"/>
 </div>
