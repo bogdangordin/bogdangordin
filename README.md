@@ -15,9 +15,7 @@ For example here is a list of some stuff that I wrote, not necessarily ***mind b
 - [Wacky Emails](https://github.com/bogdangordin/wacky_emails) - A desktop executable with command line driven menus to manage emails address from a .dat file - _Python_
 - &lt;add more repos&gt;
 
-<img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/bug.gif?raw=true" width="100"/>
-
-Thank you for stopping by!
+Thank you for stopping by! <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/bug.gif?raw=true" width="100"/>
 
 Email me here `bogdan.gordin@gmail.com` if you're wishing to discuss... Have no hesitation, I am incredibly friendly (^:
 
