@@ -24,6 +24,6 @@ Thank you for stopping by! <img src="https://raw.githubusercontent.com/bogdangor
 
 Email me here `bogdan.gordin@gmail.com` if you're wishing to discuss... Have no hesitation, I am incredibly friendly (^:
 
-**-->** [_Bogdan Gordin_](https://www.linkedin.com/in/bogdangordin/) **<--**
+**-->** [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdangordin/)](https://www.linkedin.com/in/bogdangordin/) **<--**
 
 &lt;Profile README is in progress&gt; 
