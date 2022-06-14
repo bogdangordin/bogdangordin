@@ -3,6 +3,9 @@
 ### Greetings! :^)
 
 My name is Bogdan (BAWG-dhn), I'm passionate about the **Internet of Things** and I enjoy to **code**!
+
+<br>
+
 ---
 I mostly write in **JavaScript** now days but i've delved in many other coding languages throughout the years.
 
