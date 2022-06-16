@@ -22,6 +22,8 @@ For example here is a list of some stuff that I wrote, not necessarily ***mind b
 
 Thank you for stopping by. <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/bug.gif?raw=true" width="100"/>
 
-Email me here `bogdan.gordin@gmail.com` if you're wishing to discuss... Have no hesitation, I am incredibly friendly!
+Reach out to me if you're wishing to discuss... Have no hesitation, I am incredibly friendly!
 
-[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdangordin/)](https://www.linkedin.com/in/bogdangordin/)
+[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdangordin/)](https://www.linkedin.com/in/bogdangordin/) - Bogdan Gordin
+
+[![Gmail: Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] - `bogdan.gordin@gmail.com`
