@@ -30,7 +30,7 @@ Thank you for stopping by. <img src="https://raw.githubusercontent.com/bogdangor
 
 Reach out to me if you're wishing to discuss... Have no hesitation, I am incredibly friendly! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-bogdangordin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdangordin/)](https://www.linkedin.com/in/bogdangordin/)  [![Gmail Badge](https://img.shields.io/badge/-bogdan.gordin@gmail.com?-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bogdan.gordin@gmail.com?)](bogdan.gordin@gmail.com?)
+[![Linkedin Badge](https://img.shields.io/badge/-bogdangordin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdangordin/)](https://www.linkedin.com/in/bogdangordin/)  [![Gmail Badge](https://img.shields.io/badge/-bogdan.gordin@gmail.com?-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bogdan.gordin@gmail.com)](bogdan.gordin@gmail.com?)
 
 ---
 
