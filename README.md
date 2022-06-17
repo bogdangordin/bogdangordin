@@ -1,8 +1,10 @@
+![Profile views](https://gpvc.arturio.dev/bogdangordin)
+
 <img align="left" src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/wolf.png?raw=true" width="100">
 
 ### Greetings! :^)
 
-My name is Bogdan (BAWG-dhn), I'm passionate about the **Internet of Things** and I enjoy to **code**! ![Profile views](https://gpvc.arturio.dev/bogdangordin)
+My name is Bogdan (BAWG-dhn), I'm passionate about the **Internet of Things** and I enjoy to **code**! 
 
 <br>
 
