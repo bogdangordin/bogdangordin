@@ -23,6 +23,7 @@ For example here is a list of some stuff that I wrote, not necessarily ***mind b
 ---
 
 Thank you for stopping by. <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/bug.gif?raw=true" width="100"/>
+
 Reach out to me if you're wishing to discuss... Have no hesitation, I am incredibly friendly!
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdangordin/)](https://www.linkedin.com/in/bogdangordin/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdan.gordin@gmail.com?subject=[GitHub])
