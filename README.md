@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/bogdangordin)
+![visitors](https://gpvc.arturio.dev/bogdangordin)
 
 <img align="left" src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/wolf.png?raw=true" width="100">
 
@@ -29,8 +29,8 @@ Thank you for stopping by. <img src="https://raw.githubusercontent.com/bogdangor
 
 Reach out to me if you're wishing to discuss... Have no hesitation, I am incredibly friendly! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-bogdangordin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdangordin/)](https://www.linkedin.com/in/bogdangordin/)  [![Gmail Badge](https://img.shields.io/badge/-bogdan.gordin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bogdan.gordin@gmail.com)](bogdan.gordin@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-bogdangordin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdangordin/)](https://www.linkedin.com/in/bogdangordin/)  [![Gmail Badge](https://img.shields.io/badge/-bogdan.gordin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bogdan.gordin@gmail.com)](bogdan.gordin@gmail.com)  [![Reddit Badge](https://img.shields.io/badge/-bogdangordin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdangordin/)] 
 
 ---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
