@@ -22,7 +22,7 @@ For example here is a list of some stuff that I wrote, not necessarily ***mind b
 
 ---
 
-Thank you for stopping by. <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/bug.gif?raw=true" width="100"/>
+Thank you for stopping by. <img src="https://raw.githubusercontent.com/bogdangordin/bogdangordin/main/bug.gif?raw=true" width="100"/>  ![Profile views](https://gpvc.arturio.dev/bogdangordin)
 
 Reach out to me if you're wishing to discuss... Have no hesitation, I am incredibly friendly!
 
