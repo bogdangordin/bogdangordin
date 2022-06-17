@@ -26,4 +26,4 @@ Reach out to me if you're wishing to discuss... Have no hesitation, I am incredi
 
 [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdangordin/)](https://www.linkedin.com/in/bogdangordin/) - Bogdan Gordin
 
-[![Gmail: Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/) - `bogdan.gordin@gmail.com`
+`[![Gmail: Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/) - bogdan.gordin@gmail.com`
