@@ -8,10 +8,6 @@ My name is Bogdan (BAWG-dhn), I'm passionate about the **Internet of Things** an
 
 <br>
 
-I mostly write in **JavaScript** now days but i've delved in many other coding languages throughout the years.
-
-For example here is a list of some stuff that I wrote, not necessarily ***mind blowing*** but ones I hold with sentimental values:
-
 - [WordWolf](https://github.com/RFP2202-Blue-Ocean-Avengers/WordWolf) - An online web application of the game board Werewords - _JavaScript_
 - [Vintage Clothing Store](https://github.com/Hunter-X-Hunter-FEC/hxh2202-atelier) (frontend) - An eCommerce website selling clothing and accessories - _JavaScript_
 - [Vintage Clothing Store](https://github.com/SDC-Original-Mountain-Dew/OMD2202-sdc-atelier-overview-API) (backend) - An eCommerce server API and database containing clothing and accessories - _JavaScript_
